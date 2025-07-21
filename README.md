@@ -53,23 +53,23 @@ DataSage offers a rich set of features designed to streamline your data analytic
 ## Screenshots
 
 ### Home Page and Data Upload
-![Home Page](images/Home.png)
+![Home Page](images/Home.jpg)
 *The home page allows users to upload datasets or use sample data to explore the platform's features.*
 
 ### Data Overview
-![Data Overview](images/Overview.png)
+![Data Overview](images/Overview.jpg)
 *The overview page provides a comprehensive summary of the dataset's structure and content.*
 
 ### Data Preprocessing
-![Data Preprocessing](images/Preprocessing.png)
+![Data Preprocessing](images/Preprocessing.jpg)
 *The preprocessing page offers various operations to clean and transform your data.*
 
 ### Exploratory Data Analysis
-![EDA Page](images/EDA.png)
+![EDA Page](images/EDA.jpg)
 *The EDA page offers various visualization options to explore relationships and distributions in your data.*
 
 ### SQL Assistant
-![SQL Assistant](images/SQL.png)
+![SQL Assistant](images/SQL.jpg)
 *The SQL Assistant allows users to query their data using natural language and view the results instantly.*
 
 ## Installation
