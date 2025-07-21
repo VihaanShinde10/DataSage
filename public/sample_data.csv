@@ -1,0 +1,11 @@
+age,salary,experience,education,department,performance_score,attendance,projects_completed,satisfaction_level,last_evaluation
+25,45000,2,Bachelor's,Engineering,85,95,3,0.8,0.85
+30,65000,5,Master's,Marketing,92,98,5,0.9,0.92
+35,85000,8,PhD,Research,88,92,4,0.75,0.88
+28,55000,3,Bachelor's,Engineering,78,88,2,0.65,0.78
+42,95000,12,Master's,Management,95,96,6,0.95,0.95
+31,70000,6,Bachelor's,Marketing,82,90,3,0.7,0.82
+38,90000,10,PhD,Research,90,94,5,0.85,0.90
+27,50000,2,Bachelor's,Engineering,75,85,2,0.6,0.75
+33,75000,7,Master's,Management,88,93,4,0.8,0.88
+29,60000,4,Bachelor's,Marketing,80,89,3,0.7,0.80 
